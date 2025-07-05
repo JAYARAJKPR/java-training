@@ -1,8 +1,0 @@
-Get your hands dirty with 50 coding questions 
-https://www.digitalocean.com/community/tutorials/java-programming-interview-questions#bonus-questions
-
-Collections Interview Questions:
-https://www.geeksforgeeks.org/java/java-collection-exercise/
-https://medium.com/@mehar.chand.cloud/java-stream-coding-interview-questions-part-1-dc39e3575727
-
-https://www.digitalocean.com/community/tutorials/java-collections-interview-questions-and-answers
